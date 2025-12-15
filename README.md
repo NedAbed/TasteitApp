@@ -34,6 +34,12 @@ Tasteit is a mobile app for exploring and enjoying meals, providing an intuitive
 
 ---
 
+📲 **Download**
+- Android: [Download APK](https://github.com/NedAbed/TasteitApp/releases/tag/v1.0/)
+- iOS: Coming soon 🍏
+
+---
+
 ## 📸 Screenshots
 <div float="left">
   <img src="screenshots/logoScreen.png" width="200"/><img src="screenshots/welcomeScreen.png" width="200"/><img src="screenshots/signinScreen.png" width="200"/><img src="screenshots/signupScreen.png" width="200"/>
