@@ -35,18 +35,12 @@ Tasteit is a mobile app for exploring and enjoying meals, providing an intuitive
 ---
 
 ## 📸 Screenshots
-<p float="left">
-  <img src="screenshots/logoScreen.png" width="200"/>
-  <img src="screenshots/welcomeScreen.png" width="200"/>
-  <img src="screenshots/signinScreen.png" width="200"/>
-  <img src="screenshots/signupScreen.png" width="200"/>
-</p>
-<p float="left">
-  <img src="screenshots/homeScreen.png" width="200"/>
-  <img src="screenshots/homeScreen1.png" width="200"/>
-  <img src="screenshots/cartScreen.png" width="200"/>
-   <img src="screenshots/settingsScreen.png" width="200"/>
-</p>
+<div float="left">
+  <img src="screenshots/logoScreen.png" width="200"/><img src="screenshots/welcomeScreen.png" width="200"/><img src="screenshots/signinScreen.png" width="200"/><img src="screenshots/signupScreen.png" width="200"/>
+</div>
+<div float="left">
+  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/homeScreen1.png" width="200"/><img src="screenshots/cartScreen.png" width="200"/><img src="screenshots/settingsScreen.png" width="200"/>
+</div>
 
 
 
